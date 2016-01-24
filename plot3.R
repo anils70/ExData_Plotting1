@@ -1,4 +1,4 @@
-# EDA  project - plot2.png
+# EDA  project - plot3.png
 # 
 # This script uses individual household electric power consumption Data Set to dra plot1.png
 # 
